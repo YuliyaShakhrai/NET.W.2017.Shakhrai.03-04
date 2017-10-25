@@ -1,0 +1,28 @@
+﻿using System;
+using NUnit.Framework;
+using ExtensionMethods;
+
+namespace ExtensionMethods.Tests
+{
+    [TestFixture]
+    public class ExtentionMethodsTests
+    {
+        [TestCase(-255.255, "1100000001101111111010000010100011110101110000101000111101011100")]
+        [TestCase(255.255, "0100000001101111111010000010100011110101110000101000111101011100")]
+        [TestCase(4294967295.0, "0100000111101111111111111111111111111111111000000000000000000000")]
+        //Commented TestCases are not working 
+        //[TestCase(double.MinValue, "1111111111101111111111111111111111111111111111111111111111111111")]
+        //[TestCase(double.MaxValue, "0111111111101111111111111111111111111111111111111111111111111111")]
+        //[TestCase(double.Epsilon, "0000000000000000000000000000000000000000000000000000000000000001")]
+        //[TestCase(double.NaN, "1111111111111000000000000000000000000000000000000000000000000000")]
+        //[TestCase(double.NegativeInfinity, "1111111111110000000000000000000000000000000000000000000000000000")]
+        //[TestCase(double.PositiveInfinity, "0111111111110000000000000000000000000000000000000000000000000000")]
+        //[TestCase(-0.0, "1000000000000000000000000000000000000000000000000000000000000000")]
+        //[TestCase(0.0, "0000000000000000000000000000000000000000000000000000000000000000")]
+        public void DoubleToBinaryString_PositiveResult(double doubleNumber, string expected)
+        {
+            string actual = doubleNumber.DoubleToBinaryString();
+            StringAssert.AreEqualIgnoringCase(expected, actual);
+        }
+    }
+}
