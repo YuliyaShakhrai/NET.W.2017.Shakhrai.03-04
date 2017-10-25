@@ -1,0 +1,6 @@
+D:\Projects\EPAM\NET.W.2017.Shakhrai.03-04\EucludianGCDAlgorithms\bin\Debug\EucludianGCDAlgorithms.dll
+D:\Projects\EPAM\NET.W.2017.Shakhrai.03-04\EucludianGCDAlgorithms\bin\Debug\EucludianGCDAlgorithms.pdb
+D:\Projects\EPAM\NET.W.2017.Shakhrai.03-04\EucludianGCDAlgorithms\obj\Debug\GCDAlgorithms.csproj.CoreCompileInputs.cache
+D:\Projects\EPAM\NET.W.2017.Shakhrai.03-04\EucludianGCDAlgorithms\obj\Debug\EucludianGCDAlgorithms.dll
+D:\Projects\EPAM\NET.W.2017.Shakhrai.03-04\EucludianGCDAlgorithms\obj\Debug\EucludianGCDAlgorithms.pdb
+D:\Projects\EPAM\NET.W.2017.Shakhrai.03-04\EucludianGCDAlgorithms\obj\Debug\GCDAlgorithms.csprojResolveAssemblyReference.cache

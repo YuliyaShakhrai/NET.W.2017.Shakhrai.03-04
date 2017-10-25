@@ -1,0 +1,6 @@
+D:\Projects\EPAM\NET.W.2017.Shakhrai.03-04\ExtensionMethods\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
+D:\Projects\EPAM\NET.W.2017.Shakhrai.03-04\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\Projects\EPAM\NET.W.2017.Shakhrai.03-04\ExtensionMethods\bin\Debug\ExtensionMethods.dll
+D:\Projects\EPAM\NET.W.2017.Shakhrai.03-04\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+D:\Projects\EPAM\NET.W.2017.Shakhrai.03-04\ExtensionMethods\obj\Debug\ExtensionMethods.dll
+D:\Projects\EPAM\NET.W.2017.Shakhrai.03-04\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
